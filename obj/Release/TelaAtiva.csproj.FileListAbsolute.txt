@@ -1,0 +1,13 @@
+C:\Users\dferilles\source\repos\TelaAtiva\bin\Release\TelaAtiva.exe.config
+C:\Users\dferilles\source\repos\TelaAtiva\bin\Release\TelaAtiva.exe.manifest
+C:\Users\dferilles\source\repos\TelaAtiva\bin\Release\TelaAtiva.application
+C:\Users\dferilles\source\repos\TelaAtiva\bin\Release\TelaAtiva.exe
+C:\Users\dferilles\source\repos\TelaAtiva\bin\Release\TelaAtiva.pdb
+C:\Users\dferilles\source\repos\TelaAtiva\obj\Release\TelaAtiva.Form1.resources
+C:\Users\dferilles\source\repos\TelaAtiva\obj\Release\TelaAtiva.Properties.Resources.resources
+C:\Users\dferilles\source\repos\TelaAtiva\obj\Release\TelaAtiva.csproj.GenerateResource.cache
+C:\Users\dferilles\source\repos\TelaAtiva\obj\Release\TelaAtiva.csproj.CoreCompileInputs.cache
+C:\Users\dferilles\source\repos\TelaAtiva\obj\Release\TelaAtiva.exe.manifest
+C:\Users\dferilles\source\repos\TelaAtiva\obj\Release\TelaAtiva.application
+C:\Users\dferilles\source\repos\TelaAtiva\obj\Release\TelaAtiva.exe
+C:\Users\dferilles\source\repos\TelaAtiva\obj\Release\TelaAtiva.pdb
